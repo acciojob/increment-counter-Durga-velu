@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let counter's=0;
+let counter=0;
 function  add() {
 	let count=document.querySelector('.counter')
 	
