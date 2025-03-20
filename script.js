@@ -2,9 +2,9 @@
 let counter=0;
 function  add() {
 	let count=document.querySelector('#counter')
-	
+	alert(counter)
 	counter=counter+1
-	alert("0")
+	
 	count.innerHTML=counter;
 }
 
